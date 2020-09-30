@@ -145,6 +145,11 @@ venv.bak/
 
 # mkdocs documentation
 /site
+ 
+.local/
+.jupyter/
+.ipython/
+.config/
 
 # mypy
 .mypy_cache/
